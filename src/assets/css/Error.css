@@ -1,0 +1,14 @@
+.errores{
+    background-color: aqua;
+    font-size: 7rem;
+    width: 100%;
+}
+.span-error{
+    text-align: center;
+    color: black;
+    padding-left: 100px;
+}
+
+.emogin{
+  text-align: center;
+}
