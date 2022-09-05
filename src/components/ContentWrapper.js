@@ -1,7 +1,9 @@
 import React from 'react';
 import TopBar from './TopBar';
 import ContentRowTop from './ContentRowTop';
+import SearchMovies from './SearchMovies';
 import Footer from './Footer';
+
 function ContentWrapper(){
     return (
         <React.Fragment>
@@ -11,6 +13,7 @@ function ContentWrapper(){
                 <div id="content">
                     <TopBar />
                     <ContentRowTop />
+                    <SearchMovies />
                     <Footer />
                 </div>
             </div>    
